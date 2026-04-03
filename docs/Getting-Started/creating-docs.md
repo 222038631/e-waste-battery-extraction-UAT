@@ -10,14 +10,9 @@ Markdown is a simple markup language for formatting documents easily. Benefits o
 ## GitHub Cloning and Branching
 To begin using the E-Waste Battery Extraction documentation application MkDocs you have to clone the repository first.
 ```Bash
-git clone 
+git clone git@github.com:222038631/e-waste-battery-extraction-UAT.git
 ```
 Once cloned please create a branch in your respected GitHub application.  
-
-??? tip "The supporting screenshot utilise LazyGit and Vim"
-    - LazyGit is a TUI (Terminal User Interface) primarily used on Linux to manage Git repositories.
-    - Vim is a text editor that runs straight within a terminal.
-    These are not required to use MkDocs as any method you use to write code and manage your GitHub repositories will work the same.
 
 ## Navigating The File System
 When creating your first document, locate your respected sub-team folder and began your first Markdown file adventure.
