@@ -24,6 +24,7 @@ pip3 install mkdocs mkdocs-material mkdocs-awesome-pages-plugin
 
 ```
 
+The following command runs MkDocs local instance with live reloading of any page changes.
 ```Bash
 mkdocs serve --livereload
 ```
