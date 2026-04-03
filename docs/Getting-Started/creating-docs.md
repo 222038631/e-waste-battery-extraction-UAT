@@ -1,4 +1,4 @@
----
+--p-
 title: Creating Markdown Documents
 ---
 
@@ -12,7 +12,8 @@ To begin using the E-Waste Battery Extraction documentation application MkDocs y
 ```Bash
 git clone git@github.com:222038631/e-waste-battery-extraction-UAT.git
 ```
-Once cloned please create a branch in your respected GitHub application.  
+Once cloned please create a branch starting with - **docs/**
+![Git Branch Example](images/git-branch-example.png)
 
 ## Navigating The File System
 When creating your first document, locate your respected sub-team folder and began your first Markdown file adventure.
