@@ -8,7 +8,7 @@ If you wish to run MkDocs locally to see how your document may appear in GitHub 
 
 ## Linux
 
-First clone the repository. 
+!!! info "You will need to clone the repoistory first."
 
 1. Creating virtual Python environment 
 ```Bash
